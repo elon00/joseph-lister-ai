@@ -1,0 +1,14 @@
+{
+  "project": "joseph-lister-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "ASYTkaHDvZZ6mPM446gmJFhyaBT77MKfj1RPgrGS7vgr",
+  "vault_account": "3gop7c54mFHtVqEwLXe4Eufp78EoAFcdYDqb6n9v5SoB",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "3vxwNMgASa6dx34Rf2WpaEXeaykQ4DqsvmAXntVr8wbdQVh9jf581GC5iKcX2SJnCypjoBHKbCreycKSBCzSrBv9",
+  "account_tx": "411EB8h9Zz3mRyDNJMST1YAgNxRh1skR8w2sFK577YARYomEdXh1syj7yhx9dGg9RvsNbJQYXgfkpfagnEZ9zrcD",
+  "mint_tx": "KgfwNTPAMNfpeAMi2oSX1S5DiFTdLaQryEuqX151E3ARi9PedPyuNCpjNPC7s913qVxZcg9M48kp3uDdWoiD1tB",
+  "solana_explorer_mint": "https://explorer.solana.com/address/ASYTkaHDvZZ6mPM446gmJFhyaBT77MKfj1RPgrGS7vgr?cluster=devnet",
+  "timestamp": "2026-10-26 16:44:47 UTC"
+}
